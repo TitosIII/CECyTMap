@@ -42,8 +42,10 @@ btn2.addEventListener("click",()=>{
     c2.bindPopup('CECyT No. 2 <br> "Miguel Bernard"').openPopup();
 })
 
-
 btn3.addEventListener("click",()=>{
     c3.bindPopup('CECyT No. 3 <br> "Estanislao Ramírez Ruiz"').openPopup();
 })
 
+btn4.addEventListener("click",()=>{
+    c4.bindPopup('CECyT No. 4 <br> "Estanislao Ramírez Ruiz"').openPopup();
+})
